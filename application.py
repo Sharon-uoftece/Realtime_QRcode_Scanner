@@ -24,5 +24,5 @@ def main():
     cv2.destroyAllWindows()
 
 if __name__ == '__main__':
-    print("WOW YOUR SO HANDSOME")
+    print("WOW YOUR SO PRETTY")
     main()
