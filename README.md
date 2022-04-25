@@ -1,1 +1,1 @@
-# bar_code_scanner
+# QR Code Scanner
