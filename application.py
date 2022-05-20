@@ -1,5 +1,5 @@
 import cv2
-from pyzbar import pyzbar
+import pyzbar
 
 def read_barcodes(frame):
     barcodes = pyzbar.decode(frame)
@@ -24,5 +24,4 @@ def main():
     cv2.destroyAllWindows()
 
 if __name__ == '__main__':
-    print("WOW YOUR SO PRETTY")
     main()
